@@ -6,7 +6,7 @@ import smtplib
 # Go over to our gmail account and setup 2 factor authentication
 # generate app password
 
-email_sender = 'roqeebakindele@gmail.com'
+email_sender = 'koqebadele@gmail.com'
 email_password = password
 
 # this should be the email of the receiver #####
