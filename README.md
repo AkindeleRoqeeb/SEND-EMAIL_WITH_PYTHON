@@ -1,3 +1,3 @@
 # SEND EMAIL WITH PYTHON
 
-Help sending an email to where in the world.
+Help sending an email any where in the world.
